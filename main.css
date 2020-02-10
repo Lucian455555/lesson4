@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aqua;
+}
+
+div {
+  display: inline;
+  width: 50%;
+  background-color: blueviolet;
+  float: left;
+  border: 2px solid white;
+}
